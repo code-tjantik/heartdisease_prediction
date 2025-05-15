@@ -13,6 +13,7 @@ This project aims to predict the presence and probability of heart disease in a 
 - [License](#license)
 # Demo
 [Include a screenshot or a link to the deployed app, if any.]
+[](https://github.com/code-tjantik/heartdisease_prediction/tree/main)
 
 # Features
 
