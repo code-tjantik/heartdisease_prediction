@@ -1,16 +1,7 @@
 # Heart Disease Prediction Using Machine Learning
-This project aims to predict the presence and probability of heart disease in a patient using various maschine learning. The model is trained on the popular UCI Heart Disease dataset. This can assist in early diagnosis and support healthcare professional in clinical decision-making.
-# Table of Content
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
+## 1. Project Overview
+This project project develops a machine learning model to predict heart disease using daily outpatient data collected form  community health center (Puskesmas). The goal is to support early detection and assist primary care provider in prioritizing preventive care, identifing high-risk patient and medical intervention.
 # Demo
 [Include a screenshot or a link to the deployed app, if any.]
 [](https://github.com/code-tjantik/heartdisease_prediction/tree/main)
