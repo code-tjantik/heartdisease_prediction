@@ -25,16 +25,19 @@ The dataset consists of anonymized daily patient service data collected from a P
   3. Matplotlib & seaborn – for data visualization and exploratory data analysis
   4. Scikit-learn – for machine learning model development and evaluation
 
-## 5. Methodology
-### - Data Preprocessing:
+## 5. Data Preprocessing:
 Cleaning, handling missing values, encoding categorical features, and feature selection.
-### - Exploratory Data Analysis (EDA)
+
+## 6. Exploratory Data Analysis (EDA)
 Understanding distributions, correlations, and patterns.
-### Model Development
+
+## 7. Model Development
 Training various models such as Logistic Regression, Decision Tree, and Random Forest using scikit-learn.
-### Evaluation
+
+## 8. Evaluation
 Assessing model performance using metrics such as accuracy, precision, recall, and ROC-AUC score.
-### Interpretation
+
+## 9. Interpretation
 Visualizing important features and model predictions to aid healthcare decisions.
 
 
