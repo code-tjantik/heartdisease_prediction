@@ -16,4 +16,13 @@ The dataset consists of anonymized daily patient service data collected from a P
 - Height
 - Smoking habit
 - Diagnosis
-	
+## 4. Technology Used
+- Programming Language: Python 3.10
+- IDE: Jupyter Notebook
+- Libraries:
+  1. Pandas – for data manipulation and preprocessing
+  2. Numpy – for numerical computation
+  3. Matplotlib & seaborn – for data visualization and exploratory data analysis
+  4. Scikit-learn – for machine learning model development and evaluation
+
+
