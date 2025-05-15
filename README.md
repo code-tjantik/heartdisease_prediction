@@ -9,11 +9,11 @@ Objectives
 - To provide a decision-support tool that can be integrated into primary healthcare workflows.
 ## 3. Dataset Description
 The dataset consists of anonymized daily patient service data collected from a Puskesmas, including variables such as:
-	•	Age
-	•	Gender
-	•	Blood pressure : Sistole, Diastole
-	•	Body weight
-	•	Height
-	•	Smoking habit
-	•	Diagnosis
+- Age
+- Gender
+- Blood pressure : Sistole, Diastole
+- Body weight
+- Height
+- Smoking habit
+- Diagnosis
 	
