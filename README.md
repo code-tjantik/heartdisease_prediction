@@ -16,6 +16,7 @@ The dataset consists of anonymized daily patient service data collected from a P
 - Height
 - Smoking habit
 - Diagnosis
+[Dataset](https://github.com/code-tjantik/heartdisease_prediction/blob/main/heartdisease_data.xlsx)
 ## 4. Technology Used
 - Programming Language: Python 3.10
 - IDE: Jupyter Notebook
